@@ -1,3 +1,3 @@
 # paula
 
-Vamos a trabajar con JavaScrip esteaño.
+Vamos a trabajar con JavaScrip este año.
